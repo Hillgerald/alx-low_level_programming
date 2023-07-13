@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
- * main - a program that prints text followed by a blank line
- * uses printf
- * Return : 0 (Success)
+ * main - a program to print text followed by an empty line
+ * Return: 0 (Success)
  */
 int main(void)
 {

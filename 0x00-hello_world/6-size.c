@@ -2,7 +2,7 @@
 /**
  * main - A program to print various types of computers
  * it can display warnings
- * Return 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
