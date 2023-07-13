@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - A program to print various types of computers
- * it can display warnings
+ * it can display warnings when placed
  * Return: 0 (Success)
  */
 int main(void)
